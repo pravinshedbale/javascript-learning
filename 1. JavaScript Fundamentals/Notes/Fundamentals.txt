@@ -3,3 +3,8 @@ JavaScript
     - High Level : We don't have to worry about complex stuff like memory management.
     - Object oriented : Based on objects for storing most kings of data.
     - Multi paradigm : We can use different styles of programming.
+
+Things that can be done with JS 
+    - Dynamic effects and web applications in the browser.
+    - Its possible to use js outside browser i.e servers etc. with help of node.js.
+    
