@@ -55,4 +55,37 @@ Type Conversion and Type Coercion
         - Whenever there include more than one data type in operation it does coercion.
 
 
+Truthy and Falsy Values
+    - Falsy Values 
+        1. 0
+        2. ''
+        3. undefined
+        4. Null
+        5. NaN
+    
+    - Everything apart from above values are Truthy values.
+
+Statement and Expression
+    - Statement : statement does not produces value. example - > console.log("Hello")
+    - Expression : Expression produces value. eg -> 3+4, 1992, true && false
+
+
+JavaScript Versions and History
+
+    1995 -  Brendan Eich created the very first version of JS in just 10 days. It was called Mocha, but already had
+            many fundamental features of modern javascript.
+    
+    1996 -  Mocha changes to LiveScript and then to JavaScript, in order to attract Java Developers However, JavaScript
+            has almost nothing to do with Java.
+         -  Microsoft launched IE which copied javascript from netscape and calling it JScript.
+
+    1997 -  With need to standardize the language, ECMA releases ECMAScript1 (ES1), the first official standard for JavaScript.
+            ECMAScript is the standard, JavaScript the language in practice.
+
+    2009 -  ES is released with lots of great new features.
+
+    2015 -  ES6/ES2015 was released :  the biggest update to the language ever.
+    
+
+
     
