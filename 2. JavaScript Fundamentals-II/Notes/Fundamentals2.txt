@@ -1,0 +1,4 @@
+Strict Mode
+    - 'use strict';
+    - this should be first statement in the code.
+    - this feature is developer friendly to find errors.
