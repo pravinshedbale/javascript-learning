@@ -40,4 +40,19 @@ Variable Declaration:
         - block scoped.
         - cannot mutate variable.
 
+Type Conversion and Type Coercion
+    
+    NaN - Whenever operation that involves number fails to produce new number. (Invalid Number)
+    typeof NaN - number
+
+    Conversion of number to string - String(123) -> "123"
+    Conversion of string to number - Number("123") -> 123
+                                     Number("a1") -> NaN
+    
+    Type Conversion : When we do Conversion manually.
+
+    Type Coercion : JavaScript does it automatically for us.
+        - Whenever there include more than one data type in operation it does coercion.
+
+
     
